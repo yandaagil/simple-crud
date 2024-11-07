@@ -1,6 +1,6 @@
 # Simple CRUD
 
-Untuk menjalan aplikasi ini, silahkan ikuti langkah berikut:
+Untuk menjalankan aplikasi ini, silahkan ikuti langkah berikut:
 
 1. Clone repository ini
 2. Buka terminal dan arahkan ke folder repository
